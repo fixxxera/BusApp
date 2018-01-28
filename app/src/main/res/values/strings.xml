@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BusApp</string>
+    <string name="_64">64</string>
+    <string name="_93">93</string>
+    <string name="_98">98</string>
+    <string name="_122">122</string>
+    <string name="dashes">--</string>
+    <string name="check">Check</string>
+    <string name="buttontext">Downloading</string>
+    <string name="buttonbefore">Check</string>
+    <string-array name="urls">
+        <item>"https://api-arrivals.sofiatraffic.bg/api/v1/arrivals/0914/?line=64&amp;type=bus"</item>
+        <item>"https://api-arrivals.sofiatraffic.bg/api/v1/arrivals/0914/?line=93&amp;type=bus"</item>
+        <item>"https://api-arrivals.sofiatraffic.bg/api/v1/arrivals/0914/?line=98&amp;type=bus"</item>
+        <item>"https://api-arrivals.sofiatraffic.bg/api/v1/arrivals/0914/?line=122&amp;type=bus"</item>
+    </string-array>
+</resources>
